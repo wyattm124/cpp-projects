@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wyatt/Desktop/CPPProjects/LRUCache/LRUC.cpp
+iostream
+-
+LRUC.h
+/home/wyatt/Desktop/CPPProjects/LRUCache/LRUC.h
+
+/home/wyatt/Desktop/CPPProjects/LRUCache/LRUC.h
+unordered_map
+-
+vector
+-
+
